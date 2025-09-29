@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: https://sansan1994.github.io/micvwev/sitemap.xml
+
+# Permitir indexación de imágenes
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+# Mejorar rastreo
+Crawl-delay: 1
