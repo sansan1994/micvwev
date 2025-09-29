@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://sansan1994.github.io/micvweb/</loc>
+    <lastmod>2025-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://sansan1994.github.io/micvweb/assets/images/imagensandy.jpg</image:loc>
+      <image:title>Sandy Sánchez - Desarrolladora Web</image:title>
+      <image:caption>Sandy Sánchez, Ingeniera en Sistemas especializada en desarrollo web frontend y backend</image:caption>
+    </image:image>
+  </url>
+</urlset>sion="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sansan1994.github.io/micvwev/</loc>
